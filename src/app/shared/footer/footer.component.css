@@ -1,0 +1,15 @@
+.footer {
+    /* position: absolute;
+    bottom: 1px; */
+    width: 97%;
+    height: 40px;
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+    /* border: 2px solid #AFDCEC; */
+    background-color: #FFE5B4;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    color: #F88017;
+    font-family: 'Acme', sans-serif;
+  }

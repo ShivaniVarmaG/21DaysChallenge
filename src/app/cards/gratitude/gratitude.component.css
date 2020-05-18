@@ -1,0 +1,43 @@
+.rtxt{
+    /* text-align: right; */
+    margin-left: 120px;
+    color:#CC6600;
+ }
+ .rtxt h1{
+    font-family: 'Acme', sans-serif;
+     margin-block-end: unset;
+ }
+ 
+ .rtxt h3{
+    font-family: 'Acme', sans-serif;
+     margin-block-start: unset;
+ }
+ 
+ .rtxt2{
+     margin: 0px;
+     padding: 0px;
+     margin-left: 100px;
+     /* margin-right: 20px; */
+  }
+  
+  .card{
+      width: 10%;
+      height: 100px;
+      margin: 15px;
+      /* margin-left: 20px;
+      margin-right: 20px; */
+      display:inline-block;
+      background-color: #FFE5B4;
+      border-radius: 15%;
+      cursor: pointer;
+  }
+ .card .title h3{
+     text-align: center;
+     color: #F88017;
+     margin-block-end: unset;
+ }
+ .card .txt h1{
+     text-align: center;
+     color: #F88017;
+     margin-block-start: unset;
+ }

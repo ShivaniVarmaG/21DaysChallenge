@@ -1,0 +1,16 @@
+<div class="backdrop" (click)="onClose()">
+    <div class="alert-box">
+        <h2>Your Task for {{day}}!</h2>
+        <hr>
+        <ul style="list-style-type:circle">
+            <li>{{task1}}</li>
+            <li>{{task2}}</li>
+            <li>{{task3}}</li>
+            <li>{{task4}}</li>
+        </ul>
+        <div class="alert-box-action">
+            <button class="btn" (click)="onClose()">Let's do it!</button>
+        </div>
+    </div>
+</div>
+

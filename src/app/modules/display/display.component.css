@@ -1,0 +1,28 @@
+
+.display{
+    width: 100%;
+    height: 600px;
+    background-color: #FFE5B4;
+}
+div .rtxt{
+    /* margin-left: 120px; */
+    color:#F88017;
+    text-align: center;
+    padding: 15%;
+}
+
+.rtxt h1{
+    font-family: 'Chewy', cursive;
+    /* font-family: 'Patrick Hand', cursive; */
+    font-size: 80px;
+    margin-block-start: unset;
+    margin-block-end: unset;
+}
+
+
+.rtxt h3{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    margin-block-start: unset;
+    margin-block-end: unset;
+}
